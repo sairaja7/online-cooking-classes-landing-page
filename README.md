@@ -1,0 +1,3 @@
+### Project Description
+
+The Online Cooking Classes landing page is designed to attract and engage users interested in learning how to cook from professional chefs. The page features a modern and responsive design, utilizing HTML, CSS, JavaScript, and Bootstrap for seamless user experience across devices. Key sections include a hero area with a compelling call-to-action, detailed class offerings, flexible pricing plans, and customer testimonials to build trust. Additionally, the contact form and social media links facilitate easy communication and connection with potential students. This project showcases effective web development practices and aims to convert visitors into active participants in our cooking community.
