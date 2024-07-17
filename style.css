@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background: url('assets/images/hero-bg.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.about-section, .classes-section, .pricing-section, .testimonials-section, .contact-section {
+    padding: 60px 0;
+}
+
+.testimonial {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.footer-section {
+    background: #343a40;
+    color: white;
+}
